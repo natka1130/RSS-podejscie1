@@ -4,7 +4,7 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Business Card</name>
+    <name>Business</name>
     <description>My first mobile app with descritpion Business Card</description>
     <author email="n.lewczuk@gmail.com">
 		Natalia Lewczuk
