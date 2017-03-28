@@ -4,8 +4,8 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Co to GUI</name>
-    <description>My first mobile app with descritpion about GUI</description>
+    <name>Business Card</name>
+    <description>My first mobile app with descritpion Business Card</description>
     <author email="n.lewczuk@gmail.com">
 		Natalia Lewczuk
 	</author>
