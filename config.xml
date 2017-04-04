@@ -4,8 +4,8 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Business</name>
-    <description>My first mobile app with descritpion Business Card</description>
+    <name>Display picture</name>
+    <description>Pop-up windows with pictures</description>
     <author email="n.lewczuk@gmail.com">
 		Natalia Lewczuk
 	</author>

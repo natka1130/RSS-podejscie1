@@ -13,31 +13,35 @@
 		<!-- My app main page -->
 		<div data-role="page" id="pageone">
 		  <div data-role="header">
-			<h1>Business Card</h1>
+			<h1>Display pictures</h1>
 		  </div>
 		  <div data-role="main" class="ui-content">
-			<p>Name: Natalia <br>
-			Surname: Lewczuk <br>
-			Email address: n.lewczuk@gmail.com<br>
-			Field of study: IT</p>
-			<a href="#interests" class="ui-btn ui-btn-inline ui-corner-all ui-shadow" >Interests!</a>
+			<ul>
+                  <li><a href="#my1Popup" data-rel="popup" class="ui-btn ui-btn-inline ui-corner-all">Masuria</a>
+
+                        <div data-role="popup" id="my1Popup">
+                            <img src="mazury_kraina.jpg" alt="Masuria" style="width:304px;height:228px;">
+                        </div>
+                  </li>
+                  <li><a href="#2myPopup" data-rel="popup" class="ui-btn ui-btn-inline ui-corner-all">Pomerania</a>
+
+                        <div data-role="popup" id="2myPopup">
+                            <img src="pomerania.jpg" alt="Pomerania" style="width:304px;height:228px;">
+                        </div>
+                  </li>
+                  <li><a href="#my3Popup" data-rel="popup" class="ui-btn ui-btn-inline ui-corner-all">The Tatra Mountains</a>
+
+                        <div data-role="popup" id="my3Popup">
+                            <img src="tatry.jpg" alt="The Tatra Mountains" style="width:304px;height:228px;">
+                        </div>
+                  </li>
+            </ul>
+              
 		  </div>
 		  <div data-role="footer" data-position="fixed">
 			<h1>(c) Natalia Lewczuk</h1>
 		  </div> 
 		</div> 
-		
-		<!-- Mobile device details page -->
-		<div data-role="page" id="interests">
-			<div data-role="header" data-theme="a">
-				<h1>My interests</h1>
-			</div>
-			<div role="main" class="ui-content">
-				<p>My name Natasha. I like cooking :)</p>
-				
-				<a href="#pageone" class="ui-btn ui-btn-inline ui-corner-all ui-shadow" >Back!</a>
-			</div>
-		</div>
 		
 			
 		
