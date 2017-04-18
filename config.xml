@@ -11,7 +11,7 @@
 	</author>
 	
 	<plugin name="org.apache.cordova.network-information" spec="0.2.7" source="pgb" />
-    <gap:plugin name="org.apache.cordova.core.dialogs" source="pgb" spec="1.2.1"/>
+    <gap:plugin name="org.apache.cordova.core.dialogs" spec="0.2.7" source="pgb"/>
     <gap:plugin name="org.apache.cordova.core.inappbrowser" />
  
     <preference name="permissions" value="none" />
