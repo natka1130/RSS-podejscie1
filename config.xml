@@ -4,8 +4,8 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Display picture</name>
-    <description>Pop-up windows with pictures</description>
+    <name>RSS</name>
+    <description>wycznik wiadomosci</description>
     <author email="n.lewczuk@gmail.com">
 		Natalia Lewczuk
 	</author>
