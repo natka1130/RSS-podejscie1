@@ -12,7 +12,7 @@
 	
 	<plugin name="org.apache.cordova.network-information" spec="0.2.7" source="pgb" />
     <gap:plugin name="org.apache.cordova.dialogs" spec="0.3.7" source="npm"/>
-    <gap:plugin name="org.apache.cordova.core.inappbrowser" />
+    <gap:plugin name="org.apache.cordova.core.inappbrowser" source="npm"/>
  
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.0.0" />
